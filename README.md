@@ -48,6 +48,7 @@ There are 2 ways to install:
   That's all for now, more will be added later:
 
   1. **Version**
+     
      ```
      nextshell --v
      ```
@@ -56,11 +57,13 @@ There are 2 ways to install:
      ```
      
   2. **Updates**
+     
     ```
     nextshell --updates
     ```
     
   3. **Docs**
+     
     ```
     nextshell --docs
     ```
