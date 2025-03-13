@@ -68,14 +68,23 @@ There are 2 ways to install:
     nextshell --docs
     ```
 
+
+## Memory Optimization & Automatic Shutdown
+
+NextShell automatically optimizes memory usage in the background and will close terminal tabs after 10 minutes. This helps in reducing memory consumption and improving performance.
+
+
+
 ## Contributing
 
 Read the [Contributing](.github/CONTRIBUTING.md) file for more details!
 
+
 ## License
 
 The software is licensed under [GNU General Public License v3.0](LICENSE). Read it now!
-  
+
+
      
 
    
