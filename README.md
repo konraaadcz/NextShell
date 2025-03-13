@@ -28,7 +28,7 @@ There are 2 ways to install:
 
 1. **Manual download**
 
-   Install or copy the repository and place it in your chosen folder. Then run the start.bat file:
+   [Install](https://github.com/konraaadcz/NextShell/releases) or copy the repository and place it in your chosen folder. Then run the start.bat file:
    ```
    ./start.bat
    ```
