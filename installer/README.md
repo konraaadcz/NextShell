@@ -1,3 +1,4 @@
 # NextShell Installer
 
-The project will soon have its own installer available 👀
+This application also has its own installer 👀
+Download the `.exe` file and run it 
