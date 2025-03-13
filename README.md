@@ -70,7 +70,7 @@ There are 2 ways to install:
 
 ## Contributing
 
-Read the [Contributing](.github/Contributing.md) file for more details!
+Read the [Contributing](.github/CONTRIBUTING.md) file for more details!
 
 ## License
 
