@@ -27,7 +27,7 @@ NextShell is a terminal emulator for Windows designed to provide an efficient an
 There are 2 ways to install:
 
 1. **Manual download**
-2. 
+
    Install or copy the repository and place it in your chosen folder. Then run the start.bat file:
    ```
    ./start.bat
@@ -37,7 +37,7 @@ There are 2 ways to install:
    java src/main/java/net/nextshell/App.java
    ```
    
-3. **NextShell Installer**
+2. **NextShell Installer**
    
    This is currently under construction, more information [here](https://github.com/konraaadcz/NextShell/tree/main/installer)
 
