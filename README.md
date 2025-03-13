@@ -58,15 +58,15 @@ There are 2 ways to install:
      
   2. **Updates**
      
-    ```
-    nextshell --updates
-    ```
+     ```
+     nextshell --updates
+     ```
     
   3. **Docs**
      
-    ```
-    nextshell --docs
-    ```
+     ```
+     nextshell --docs
+     ```
 
 
 ## Memory Optimization & Automatic Shutdown
