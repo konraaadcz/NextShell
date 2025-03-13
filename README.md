@@ -38,7 +38,7 @@ There are 2 ways to install:
    ```
    
 3. **NextShell Installer**
-4. 
+   
    This is currently under construction, more information [here](https://github.com/konraaadcz/NextShell/tree/main/installer)
 
 
