@@ -16,6 +16,12 @@ NextShell is a terminal emulator for Windows designed to provide an efficient an
 
 ![terminal](public/terminal-preview.png)
 
+
+## Memory Optimization & Automatic Shutdown
+
+NextShell automatically optimizes memory usage in the background and will close terminal tabs after 10 minutes. This helps in reducing memory consumption and improving performance.
+
+
 ## Depedencies
 
 - Windows 10 or higher operating system
@@ -39,7 +45,7 @@ There are 2 ways to install:
    
 2. **NextShell Installer**
    
-   This is currently under construction, more information [here](https://github.com/konraaadcz/NextShell/tree/main/installer)
+   More information [here](https://github.com/konraaadcz/NextShell/tree/main/installer)
 
 
 
@@ -69,9 +75,7 @@ There are 2 ways to install:
      ```
 
 
-## Memory Optimization & Automatic Shutdown
 
-NextShell automatically optimizes memory usage in the background and will close terminal tabs after 10 minutes. This helps in reducing memory consumption and improving performance.
 
 
 
