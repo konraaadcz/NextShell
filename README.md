@@ -55,7 +55,7 @@ There are 2 ways to install:
      nextshell --version
      ```
      
-  2 . **Updates**
+  2. **Updates**
     ```
     nextshell --updates
     ```
