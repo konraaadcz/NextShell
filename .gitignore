@@ -1,0 +1,18 @@
+
+.idea/
+.vscode/
+
+
+.DS_Store
+Thumbs.db
+
+
+*.log
+*.tmp
+*.swp
+
+
+# Függőségek és csomagolt fájlok
+*.jar
+*.war
+*.ear
