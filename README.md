@@ -2,7 +2,7 @@
 
 # NextShell
 
-NextShell is a terminal emulator for Windows designed to provide an efficient and modern interface for interacting with your system via a terminal window. It includes multiple customizable features and is built with the ability to run shell commands, display logs, and support a multi-tab environment. The NextShell terminal application also includes features such as version checks, custom commands, and more...
+NextShell is an open source terminal emulator for Windows designed to provide an efficient and modern interface for interacting with your system via a terminal window. It includes multiple customizable features and is built with the ability to run shell commands, display logs, and support a multi-tab environment. The NextShell terminal application also includes features such as version checks, custom commands, and more...
 
 ## Why NextShell?
 
