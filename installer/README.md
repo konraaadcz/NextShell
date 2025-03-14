@@ -5,14 +5,14 @@ Welcome to the official installer for **NextShell**! This installer will always 
 ## Installation Guide
 
 ### Step 1: Download the Installer
-Download the `.exe` file from the [latest release](https://github.com/konraaadcz/NextShell/releases) on GitHub.
+Download the `.exe` file on GitHub.
 
 ### Step 2: Run the Installer
 - Double-click the downloaded `.exe` file.
 - Follow the on-screen instructions to complete the installation.
 
 ### Step 3: Start Using NextShell
-Once the installation is complete, you can launch NextShell from the Start Menu or by running the application from the installation directory.
+Once the installation is complete, you can launch NextShell in the applications directory by running the `start.bat` file
 
 ---
 
