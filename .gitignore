@@ -12,7 +12,6 @@ Thumbs.db
 *.swp
 
 
-# Függőségek és csomagolt fájlok
 *.jar
 *.war
 *.ear
