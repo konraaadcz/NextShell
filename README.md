@@ -30,7 +30,7 @@ NextShell automatically optimizes memory usage in the background and will close 
 
 ## Installation
 
-There are 2 ways to install:
+
 
 1. **Manual download**
 
@@ -43,9 +43,6 @@ There are 2 ways to install:
    java src/main/java/net/nextshell/App.java
    ```
    
-2. **NextShell Installer**
-   
-   More information [here](https://github.com/konraaadcz/NextShell/tree/main/installer)
 
 
 
