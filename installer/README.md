@@ -1,3 +1,0 @@
-# NextShell Installer
-
-In the future...
