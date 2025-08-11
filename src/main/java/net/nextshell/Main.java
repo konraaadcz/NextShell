@@ -28,7 +28,7 @@ public class Main {
 
                 try {
 
-                    Thread.sleep(13000);
+                    Thread.sleep(3500);
 
 
                 } catch (InterruptedException f) {
@@ -58,3 +58,4 @@ public class Main {
         });
     }
 }
+
