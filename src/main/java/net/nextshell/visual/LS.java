@@ -27,8 +27,8 @@ public class LS extends JWindow {
 
 
     private final LSPanel content;
-    private final int width = 1000;
-    private final int height = 700;
+    private final int width = 700;
+    private final int height = 360;
 
 
 
@@ -359,3 +359,4 @@ class LSPanel extends JPanel {
 
     
 }
+
