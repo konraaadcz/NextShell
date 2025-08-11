@@ -2,6 +2,7 @@
 <updates>
     <update>
         <date>2025-08-11</date>
-        <description>Initial release with basic terminal functionality. ALPHA version released!</description>
+        <description>A loading screen added to the application</description>
     </update>
 </updates>
+
