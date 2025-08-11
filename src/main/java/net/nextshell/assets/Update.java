@@ -16,7 +16,7 @@ public class Update {
         try {
             
             
-            File updatesFile = new File("src/main/java/net/nextshell/config/updates.xml");
+            File updatesFile = new File("src/main/java/net/nextshell/data/updates.xml");
 
 
             DocumentBuilderFactory frog = DocumentBuilderFactory.newInstance();
@@ -53,3 +53,4 @@ public class Update {
         return updates.toString();
     }
 }
+
