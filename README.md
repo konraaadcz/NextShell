@@ -61,12 +61,15 @@ NextShell automatically optimizes memory usage in the background and will close 
      ```
 
 
+## Credits
+
+I used [Oracle's Java Swing Documentation](https://docs.oracle.com/javase/8/docs/api/javax/swing/package-summary.html) several times during development and thanks to everyone who helped in any way during the development!
 
 
 
 ## License
 
-The software is licensed under [GNU General Public License v3.0](LICENSE). Read it now!
+The software is licensed under [GNU General Public License v3.0](LICENSE)
 
 
      
