@@ -69,7 +69,7 @@ class LSPanel extends JPanel {
 
     private float progress = 0f;
 
-    private float velocity = 0.0025f;
+    private float velocity = 0.0097f;
 
     private int stripeOffset = 0;
 
@@ -359,4 +359,5 @@ class LSPanel extends JPanel {
 
     
 }
+
 
