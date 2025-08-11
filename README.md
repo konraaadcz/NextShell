@@ -14,9 +14,11 @@ NextShell is a terminal emulator for Windows designed to provide an efficient an
 - **Real-Time Command Execution** 
 - **Cross-Platform Compatibility** 
 
-![terminal](public/terminal-preview.png)
+
 
 ![loading](public/loading.png)
+
+![terminal](public/terminal-preview.png)
 
 
 ## Memory Optimization & Automatic Shutdown
