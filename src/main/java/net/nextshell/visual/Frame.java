@@ -114,7 +114,7 @@ public class Frame extends JFrame {
 
         JMenuBar menuBar = new JMenuBar();
         menuBar.setBackground(Color.BLACK);
-        JMenu fileMenu = new JMenu("File");
+        JMenu fileMenu = new JMenu("Main");
         fileMenu.setForeground(Color.WHITE);
 
 
@@ -246,3 +246,4 @@ public class Frame extends JFrame {
         }
     }
 }
+
