@@ -5,6 +5,8 @@ import java.io.*;
 import javax.swing.*;
 import main.java.net.nextshell.assets.Version;
 import main.java.net.nextshell.assets.Update;
+import main.java.net.nextshell.modules.CL;
+
 
 public class Panel extends JPanel {
 
@@ -77,6 +79,12 @@ public class Panel extends JPanel {
 
     private void executeCommand(String command) {
         if (command.trim().isEmpty()) return;
+
+
+        
+
+        CL.logCommand(command);
+        
 
 
 
@@ -154,4 +162,5 @@ public class Panel extends JPanel {
 
         }
     }
+
 }
