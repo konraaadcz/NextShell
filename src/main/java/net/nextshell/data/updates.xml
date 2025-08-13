@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <updates>
     <update>
-        <date>2025-08-11</date>
-        <description>A loading screen added to the application</description>
+        <date>2025-08-13</date>
+        <description>This version finally includes the file needed to create a desktop shortcut. I also attached a guide in the setup folder</description>
     </update>
 </updates>
+
 
