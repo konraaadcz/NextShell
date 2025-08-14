@@ -1,5 +1,19 @@
 ![logo](public/logo.png)
 
+
+
+
+![Stars](https://img.shields.io/github/stars/konraaadcz/NextShell?style=social)
+![Forks](https://img.shields.io/github/forks/konraaadcz/NextShell?style=social)
+![Watchers](https://img.shields.io/github/watchers/konraaadcz/NextShell?style=social)
+![Issues](https://img.shields.io/github/issues/konraaadcz/NextShell)
+![License](https://img.shields.io/github/license/konraaadcz/NextShell)
+
+
+
+
+
+
 # NextShell
 
 NextShell is a PowerShell based terminal app for Windows designed to provide an efficient and "old-style" interface for interacting with your system via a terminal window. It includes multiple customizable features and is built with the ability to run shell commands, display logs, and support a multi-tab environment. The NextShell terminal application also includes features such as version checks, custom commands, and it's my biggest project ever 🤩🤩🤩🤩
