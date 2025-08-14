@@ -33,7 +33,6 @@ You can see all versions in the [Releases](https://github.com/konraaadcz/NextShe
 
 
 
-![terminal](public/terminal-preview.png)
 
 
 ## Memory Optimization & Automatic Shutdown
