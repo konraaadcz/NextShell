@@ -32,7 +32,6 @@ You can see all versions in the [Releases](https://github.com/konraaadcz/NextShe
 
 
 
-![loading](public/loading.png)
 
 ![terminal](public/terminal-preview.png)
 
