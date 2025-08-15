@@ -13,6 +13,8 @@ public class Frame extends JFrame {
 
     private JTabbedPane tabbedPane;
     private AS autoShutdown;
+    private int xx = 0;
+    private int yy = 0;
 
 
 
@@ -202,6 +204,25 @@ public class Frame extends JFrame {
 
 
 
+        topBar.addMouseListener(new MouseAdapter() {
+            @Override
+            public void mousePressed(MouseEvent evt) {
+                xx = evt.getX();
+                yy = evt.getY();
+            }
+        });
+
+        topBar.addMouseMotionListener(new MouseMotionAdapter() {
+            @Override
+            public void mouseDragged(MouseEvent evt) {
+                int x = evt.getXOnScreen();
+                int y = evt.getYOnScreen();
+                setLocation(x - xx, y - yy);
+            }
+        });
+
+
+
         add(topBar, BorderLayout.NORTH);
     }
 
@@ -246,4 +267,5 @@ public class Frame extends JFrame {
         }
     }
 }
+
 
