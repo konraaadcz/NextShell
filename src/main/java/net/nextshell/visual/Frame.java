@@ -134,11 +134,6 @@ public class Frame extends JFrame {
 
 
 
-        JMenuItem newTerminalItem = new JMenuItem("New Terminal");
-        newTerminalItem.addActionListener(e -> addNewTerminalTab());
-        fileMenu.add(newTerminalItem);
-
-
 
 
         JMenuItem closeTerminalItem = new JMenuItem("Close Terminal");
@@ -278,6 +273,7 @@ public class Frame extends JFrame {
         }
     }
 }
+
 
 
 
