@@ -72,6 +72,17 @@ public class Frame extends JFrame {
 
 
 
+        JButton minimizeButton = new JButton("_");
+        minimizeButton.setForeground(Color.WHITE);
+        minimizeButton.setBackground(Color.DARK_GRAY);
+        minimizeButton.setFocusPainted(false);
+        minimizeButton.addActionListener(e -> setState(JFrame.ICONIFIED));
+        buttonPanel.add(minimizeButton);
+
+
+
+
+
 
         JButton fullscreenButton = new JButton("⬜");
         fullscreenButton.setForeground(Color.WHITE);
@@ -267,5 +278,6 @@ public class Frame extends JFrame {
         }
     }
 }
+
 
 
