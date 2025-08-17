@@ -104,6 +104,17 @@ public class Panel extends JPanel {
                 terminalArea.append("The projects docs:  https://github.com/konraaadcz/NextShell/blob/main/README.md");
 
 
+            } else if (command.equals("nextshell --log")) {
+                java.nio.file.Path h = java.nio.file.Paths.get("src", "main", "java", "net", "nextshell", "data", "log.txt");
+                java.util.List<String> q = java.nio.file.Files.readAllLines(h);
+                int g = Math.max(0, q.size() - 10);
+                java.util.List<String> l10 = q.subList(g, q.size());
+                terminalArea.append("Last commands:\n");
+                for (String b : l10) {
+                    terminalArea.append(b + "\n");
+                }
+
+
 
             } else if (command.equals("nextshell --updates")) {
                 String updates = Update.getUpdates();
@@ -164,3 +175,5 @@ public class Panel extends JPanel {
     }
 
 }
+
+
