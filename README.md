@@ -72,6 +72,11 @@ NextShell automatically optimizes memory usage in the background and will close 
      nextshell --docs
      ```
 
+  4. **Log**
+     ```
+     nextshell --log
+     ```
+
 
 ## Credits
 
