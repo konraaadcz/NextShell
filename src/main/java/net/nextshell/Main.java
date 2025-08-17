@@ -41,6 +41,18 @@ public class Main {
                     Frame sziauram = new Frame();
                     sziauram.setVisible(true);
 
+
+
+
+                    try {
+                        NN.showNotification();
+                    } catch (Exception gyulolomeztaszart) {
+
+                    }
+
+
+
+                    
                     MO om = new MO();
                     om.optimizeMemoryUsage();
 
@@ -56,3 +68,4 @@ public class Main {
         });
     }
 }
+
