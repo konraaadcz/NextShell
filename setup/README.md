@@ -1,6 +1,6 @@
 # NextShell setup
 
-I have collected the steps required to install the terminal.
+I have collected the steps required to setup the terminal.
 
 # "The steps"
 
@@ -9,5 +9,6 @@ I have collected the steps required to install the terminal.
 3. Find the "setup" folder and inside it the "create-shortcut.bat" file
 4. Run the file, this will create a shortcut on the desktop
 5. Do not change the folder location afterwards.
+
 
 
