@@ -20,22 +20,15 @@ public class Main {
         SwingUtilities.invokeLater(() -> {
             
 
-            new Thread(() -> {
-                try {
-
-                    
-                    Thread.sleep(3500);
-                } catch (InterruptedException f) {
 
 
-                    
-                    
-                }
+            
 
                 SwingUtilities.invokeLater(() -> {
 
 
 
+                    
 
                     
                     Frame sziauram = new Frame();
@@ -68,4 +61,5 @@ public class Main {
         });
     }
 }
+
 
